@@ -1,0 +1,13 @@
+C:\Users\Teacher\source\repos\TaskCourse14\TaskCourse14\bin\Debug\netcoreapp3.1\TaskCourse14.exe
+C:\Users\Teacher\source\repos\TaskCourse14\TaskCourse14\bin\Debug\netcoreapp3.1\TaskCourse14.deps.json
+C:\Users\Teacher\source\repos\TaskCourse14\TaskCourse14\bin\Debug\netcoreapp3.1\TaskCourse14.runtimeconfig.json
+C:\Users\Teacher\source\repos\TaskCourse14\TaskCourse14\bin\Debug\netcoreapp3.1\TaskCourse14.runtimeconfig.dev.json
+C:\Users\Teacher\source\repos\TaskCourse14\TaskCourse14\bin\Debug\netcoreapp3.1\TaskCourse14.dll
+C:\Users\Teacher\source\repos\TaskCourse14\TaskCourse14\bin\Debug\netcoreapp3.1\TaskCourse14.pdb
+C:\Users\Teacher\source\repos\TaskCourse14\TaskCourse14\obj\Debug\netcoreapp3.1\TaskCourse14.csprojAssemblyReference.cache
+C:\Users\Teacher\source\repos\TaskCourse14\TaskCourse14\obj\Debug\netcoreapp3.1\TaskCourse14.AssemblyInfoInputs.cache
+C:\Users\Teacher\source\repos\TaskCourse14\TaskCourse14\obj\Debug\netcoreapp3.1\TaskCourse14.AssemblyInfo.cs
+C:\Users\Teacher\source\repos\TaskCourse14\TaskCourse14\obj\Debug\netcoreapp3.1\TaskCourse14.csproj.CoreCompileInputs.cache
+C:\Users\Teacher\source\repos\TaskCourse14\TaskCourse14\obj\Debug\netcoreapp3.1\TaskCourse14.dll
+C:\Users\Teacher\source\repos\TaskCourse14\TaskCourse14\obj\Debug\netcoreapp3.1\TaskCourse14.pdb
+C:\Users\Teacher\source\repos\TaskCourse14\TaskCourse14\obj\Debug\netcoreapp3.1\TaskCourse14.genruntimeconfig.cache
